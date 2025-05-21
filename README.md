@@ -1,6 +1,6 @@
 # delta-modulation
-## 212223060178
-## NAGA PRAJITH N
+## 212223060152
+## Manoj kumar D
 # Aim:
 To perform Delta-Modulation using python
 
